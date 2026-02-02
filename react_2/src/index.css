@@ -1,0 +1,57 @@
+body{
+    margin:auto;
+    background-color: rgb(204, 189, 169);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.Header{
+    text-align: center;
+    padding-top: 1px;
+    background-color: rgb(248, 231, 137);
+    font-size: 18px;
+    outline: solid black 1px;
+}
+
+.Header_apartado{
+    background-color: rgb(226, 208, 105);
+    padding:5px;
+    margin-bottom: 15px;
+    
+}
+
+.Header_links{
+    margin: 10px;
+    font-weight:bolder;
+}
+
+.Tablero{
+    background-color: rgb(248, 248, 247);
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.Tabla{
+    margin: auto;
+    padding-top: 50px;
+    max-height: 500px;
+    table-layout: fixed;
+    overflow-y: auto;
+}
+
+th, tr{
+    outline: solid black 2px;
+    width: 150px;
+    height: 160px;
+}
+
+.Turno{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(248, 231, 137);
+    width: 300px;
+    font-size: 30px;
+}
