@@ -1,0 +1,43 @@
+.Agregar{
+  text-align: center;
+}
+
+.Caja{
+  background-color: rgb(166, 208, 241);
+
+}
+
+.Comentario{
+  background-color: rgb(214, 214, 214);
+  height: 100px;
+  outline: solid black 1px;
+  font-family:cursive;
+}
+
+.Comentario_Foto{
+  max-width: 100px;
+  float:left;
+  margin: 5px;
+  margin-right: 5px;
+  max-height: 90px;
+}
+
+.Cuadro_Gris{
+  background-color: gray;
+  height: 100px;
+  float:left;
+  margin-right: 10px;
+  outline: solid black 1px;
+
+}
+
+.Fecha{
+  float: left;
+  margin-top: 0px;
+}
+
+.Nombre{
+  color:black;
+  margin-left: 10px;
+  font-style: italic; 
+}
