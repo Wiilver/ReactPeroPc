@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(119, 56, 32);
+}
+
+.Celda{
+  min-width: 150px;
+  max-height: 150px;
+  background-color: rgb(151, 118, 118);
+}
+
+.Foto{
+  min-width: 150px;
+  min-height: 150px;
+  outline: solid black 2px;
+}
