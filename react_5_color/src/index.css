@@ -1,0 +1,29 @@
+.Color{
+  background-color: red;
+  width: 350px;
+  height: 300px;
+  margin: auto;
+  outline: solid black 2px;
+  text-align: center;
+}
+
+.Color_Texto{
+  margin:auto;
+  width:60px;
+  background-color: rgb(228, 228, 228);
+
+}
+
+.Selector{
+  outline: solid black 1px;
+  width: 350px;
+  height: 50px;
+  margin:auto;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.Selector_Color{
+  margin: 10px;
+}
