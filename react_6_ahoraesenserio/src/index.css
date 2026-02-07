@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(100, 46, 187);
+}
+
+.Tabla_Fondo{
+    background-color: rgb(17, 0, 255);
+    width: 500px;
+    height: 500px;
+}
+
+.Celda{
+    background-color: rgb(147, 100, 209);
+    width: 175px;
+    height: 162px;
+}
+
+.Celda_Imagen{
+    width: 150px;
+}
